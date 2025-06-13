@@ -1,5 +1,5 @@
-device,application,tf_sw_value,official_version,version_status,car,project,client,ut
-DMI,APP,1.0,1.0,OK,1_M1,CPP.4,INCIBE,1
-DMI,APP,1.1,1.1,OK,1_M1,CPP.4,INCIBE,1
-DMI,APP,1.2,1.2,OK,1_M1,CPP.4,INCIBE,1
-DMI,APP,1.3,1.3,OK,1_M1,CPP.4,INCIBE,1
+device,application,tf_sw_value,official_version,version_status,client,project,ut,car
+DMI,APP,1.0,1.0,OK,INCIBE,CPP.4,1_M1,1
+DMI,APP,1.1,1.1,OK,INCIBE,CPP.4,1_M1,1
+DMI,APP,1.2,1.2,OK,INCIBE,CPP.4,1_M1,1
+DMI,APP,1.3,1.3,OK,INCIBE,CPP.4,1_M1,1
